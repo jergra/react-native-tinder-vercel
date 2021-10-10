@@ -8,6 +8,9 @@ This is from a tutorial by Esteban Codes:
 
 C:\webdev\react-native-tinder is deployed at:
     https://expo.dev/@jergra43/react-native-tinder
+It was Expo that took care of this deployment.  But using the app 
+is a two-stage process where we go to the above url then click again or alternatively
+read a QR code on that page, so that the app can then function on a phone.
 
 we want a deployment that opens, on a phone (that has Expo on it), 
 with one click, the following link:
@@ -24,3 +27,8 @@ to start locally:
 
 deployed (open on a phone that has Expo installed):
     https://react-native-tinder-vercel.vercel.app
+
+update:
+    git add . 
+    git commit -m "message" 
+    git push
