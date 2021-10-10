@@ -13,8 +13,14 @@ we want a deployment that opens, on a phone (that has Expo on it),
 with one click, the following link:
     exp://exp.host/@jergra43/react-native-tinder
 
-this deployment on vercel makes this possible.
+deployment on vercel makes this possible.
 
 to start locally:
     double cick on index.html in Windows Explorer
-    a blank white page will open
+    a blank green page will open
+    in the console will be the message:
+        Prevented navigation to 
+        “exp://exp.host/@jergra43/react-native-tinder” due to an unknown protocol.
+
+deployed (open on a phone that has Expo installed):
+    https://react-native-tinder-vercel.vercel.app
