@@ -9,14 +9,14 @@ This is from a tutorial by Esteban Codes:
 C:\webdev\react-native-tinder is deployed at:
     https://expo.dev/@jergra43/react-native-tinder
 It was Expo that took care of this deployment.  But using the app 
-is a two-stage process where we go to the above url then click again or alternatively
-read a QR code on that page, so that the app can then function on a phone.
+is a two-stage process where we go to the above url and then read a 
+QR code on that page, so that the app can then function on a phone.
 
-we want a deployment that opens, on a phone (that has Expo on it), 
+We want a deployment that opens, on a phone (that has Expo on it), 
 with one click, the following link:
     exp://exp.host/@jergra43/react-native-tinder
 
-deployment on vercel makes this possible.
+Deployment on vercel makes this possible.
 
 to start locally:
     double cick on index.html in Windows Explorer
