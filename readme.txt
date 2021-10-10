@@ -20,7 +20,7 @@ deployment on vercel makes this possible.
 
 to start locally:
     double cick on index.html in Windows Explorer
-    a blank green page will open
+    a blank blue page will open
     in the console will be the message:
         Prevented navigation to 
         “exp://exp.host/@jergra43/react-native-tinder” due to an unknown protocol.
